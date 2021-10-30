@@ -1,1 +1,1 @@
-# k-means-w-o-predefined-libraries-
+# k-means-(w/o-predefined-libraries)
